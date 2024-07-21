@@ -1,1 +1,1 @@
-This is a replication of McDonald's case in python.
+This is a replication of McDonald's case study in python.
